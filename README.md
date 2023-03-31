@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Sara Marín</h1>
 
-<!--
-**Nell87/Nell87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Data Analyst/Scientist</h3>
 
-Here are some ideas to get you started:
+### 🙋 About Me
+I'm a 𝗱𝗮𝘁𝗮 𝗮𝗻𝗮𝗹𝘆𝘀𝘁/𝘀𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁 focused on solving problems and helping make decisions with a scientific approach. Interested in new challenges related to MLOps Engineering roles. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech skills
+R, Python, SQL, Git, Cloud Computing with AWS (EC2, S3, Lambda...), MLFlow (experiment tracking and model registry), Prefect (workflow orchestration), Tableau
+
+---
